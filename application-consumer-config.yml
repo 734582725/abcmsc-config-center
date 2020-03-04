@@ -1,5 +1,5 @@
 #自定义
-flag: consumer-dev-up
+flag: consumer-dev-up--1
 # 配置dev环境
 server:
   port: 7070
