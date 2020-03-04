@@ -1,3 +1,5 @@
+#自定义
+flag: consumer-dev
 # 配置dev环境
 server:
   port: 7070
@@ -20,6 +22,8 @@ feign:
     enabled: true
 
 ---
+#自定义
+flag: consumer-test
 # 配置test环境
 server:
   port: 9090
