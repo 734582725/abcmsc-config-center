@@ -1,4 +1,7 @@
 # 配置dev环境
+#自定义
+flag: provider-dev
+
 server:
   port: 8084
 
@@ -33,6 +36,9 @@ eureka:
       defaultZone: http://127.0.0.1:8000/eureka
 
 ---
+#自定义
+flag: provider-dev
+
 # 配置test环境
 server:
   port: 8085
