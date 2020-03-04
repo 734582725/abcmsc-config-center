@@ -1,6 +1,6 @@
 # 配置dev环境
 #自定义
-flag: provider-dev-up
+flag: provider-dev-up--3
 
 server:
   port: 8084
